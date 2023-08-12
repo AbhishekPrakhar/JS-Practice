@@ -1,2 +1,2 @@
 # JS-Practice
-This containes code during js practice.
+This contains code during JS practice.
